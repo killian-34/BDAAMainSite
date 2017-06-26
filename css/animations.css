@@ -17,31 +17,123 @@ div.square {
     animation-duration: 1s;
 }
 
+.leftslide{
+    position:relative;
+    -webkit-animation-name: leftslide; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1.5s; /* Safari 4.0 - 8.0 */
+    animation-name: leftslide;
+    animation-duration: 1.5s;
+    
+}
+
+.fadein{
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+/*
+ * TOPSLIDE 
+ */
+
 /* Standard syntax */
 @keyframes topslide {
     0%   {top:-500px;}
     100% {top:0px;}
 }
 
+/* Safari, Chrome and Opera > 12.1 */
 @-webkit-keyframes topslide {
     0%   {top:-500px;}
     100% {top:0px;}
 }
 
-/* Safari 4.0 - 8.0 */
-@-webkit-keyframes example {
-    0%   {background-color:red; left:0px; top:0px;}
-    25%  {background-color:yellow; left:200px; top:0px;}
-    50%  {background-color:blue; left:200px; top:200px;}
-    75%  {background-color:green; left:0px; top:200px;}
-    100% {background-color:red; left:0px; top:0px;}
+/* Firefox < 16 */
+@-moz-keyframes topslide {
+    0%   {top:-500px;}
+    100% {top:0px;}
 }
 
-/* Standard syntax */
-@keyframes example {
-    0%   {background-color:red; left:0px; top:0px;}
-    25%  {background-color:yellow; left:200px; top:0px;}
-    50%  {background-color:blue; left:200px; top:200px;}
-    75%  {background-color:green; left:0px; top:200px;}
-    100% {background-color:red; left:0px; top:0px;}
+/* Internet Explorer */
+@-ms-keyframes topslide {
+    0%   {top:-500px;}
+    100% {top:0px;}
+}
+
+/* Opera < 12.1 */
+@-o-keyframes topslide {
+    0%   {top:-500px;}
+    100% {top:0px;}
+}
+
+
+/*
+ * LEFTSLIDE 
+ */
+
+@keyframes leftslide {
+    0%{left:-350px;}
+    50%{left:-350px;}
+    100%{left:0px;}
+}
+
+@-webkit-keyframes leftslide {
+    0%{left:-350px;}
+    50%{left:-350px;}
+    100%{left:0px;}
+}
+
+@-moz-keyframes leftslide {
+    0%{left:-350px;}
+    50%{left:-350px;}
+    100%{left:0px;}
+}
+
+@-ms-keyframes leftslide {
+    0%{left:-350px;}
+    50%{left:-350px;}
+    100%{left:0px;}
+}
+
+@-o-keyframes leftslide {
+    0%{left:-350px;}
+    50%{left:-350px;}
+    100%{left:0px;}
+}
+
+/*
+ * FADEIN 
+ */
+
+/* Standard Syntax */
+@keyframes fadein {
+    0%{ opacity: 0; }
+    75%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+@-moz-keyframes fadein {
+    0%{ opacity: 0; }
+    75%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+@-webkit-keyframes fadein {
+    0%{ opacity: 0; }
+    75%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+@-ms-keyframes fadein {
+    0%{ opacity: 0; }
+    75%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+@-o-keyframes fadein {
+    0%{ opacity: 0; }
+    75%{ opacity: 0; }
+    100%{ opacity: 1; }
 }

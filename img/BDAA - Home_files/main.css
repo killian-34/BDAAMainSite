@@ -1,0 +1,64 @@
+        body {
+            background-image:url(/Images/site/grey_texture.png) !important;
+        }
+        .osured{
+            color: #BB0000 !important;
+        }
+
+        h1.pretty-link a{
+            color: #BB0000;
+            text-decoration: underline;
+        }
+
+
+        h1.pretty-link a:hover, a:visited, a:link, a:active{
+            color: #660000;
+            text-decoration: none;
+        }
+
+        #button {
+            height: 55%;
+            background-color: #BB0000;
+        }
+        #button a {
+            color: #FFFFFF;
+            font-size: 18pt;
+        }
+        #mainNav, #mainNavCollapse {
+            background-color: #BB0000;
+            text-align: justified;
+        }
+        #mainNav, #mainNavCollapse a {
+            color: #FFFFFF;
+            font-size: 18pt;
+        }
+        #mainNav a:hover {
+            color: #BB0000 !important;
+        }
+        @media screen and ( min-width: 992px ) {
+            #button a {
+                color: #FFFFFF;
+                font-size: 24pt;
+            }
+        }
+        @media screen and ( min-width: 1200px ) {
+            #mainNav, #mainNavCollapse a {
+                font-size: 21pt;
+            }
+        }
+        @media screen and ( max-width: 991px ) {
+            #mainNav, #mainNavCollapse a {
+                font-size: 12pt;
+            }
+        }
+        @media screen and (max-width: 767px ) {
+             #mainNav, #mainNavCollapse a {
+                 font-size: 16pt;
+            }
+        }
+        #footer {
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+        }
+@import url("http://getbootstrap.com/dist/css/bootstrap.min.css");

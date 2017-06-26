@@ -9,7 +9,7 @@
     </head>
     <body>
         <div class="leftslide">
-            <ul class="top">
+            <ul class="leftsidebar">
                 <li class="filler">
                     <a class="" href="#"></a>
                 </li>
@@ -33,7 +33,9 @@
                 </li>
                 <li class="">
                     <a class="" href="#">Gallery</a>
-                </li>
+                </li><img class="osulogo" src="../img/osulogo.png">
+                
+                
             </ul>
         </div>
         <span class='topslide topbar'>
@@ -46,35 +48,50 @@
         </div>
         <div class="col-sm-8 col-lg-8 fadein">
             <div class='jumbotron main-content'>
-                <div class='container'>
+                <div class='container padded'>
                     <h1>News</h1>
                     <p>Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
                 </div>
             </div>
-            <div class='jumbotron main-content'>
-                <div class='container'>
-                    <h1>News</h1>
-                    <p>Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
+            <!-- Events -->
+            <div class="jumbotron main-content">
+                <div class="container padded">
+                    <h1 class="featurette-heading">Events</h1>
+                    <br>
+                    <div id="event-calendar-wrapper" class="container">
+                        <!-- Event feed -->
+                        <div id="event-feed-wrapper" class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                            <script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script>
+                            <script type="text/javascript">(function() {var params = {rssmikle_url: "gcal://39puh1lr6t17cs634lsmdrn86k@group.calendar.google.com",rssmikle_frame_width: "100%",rssmikle_frame_height: "425",frame_height_by_article: "0",rssmikle_target: "_blank",rssmikle_font: "Raleway, sans-serif",rssmikle_font_size: "12",rssmikle_border: "off",responsive: "on",rssmikle_css_url: "",text_align: "center",text_align2: "center",corner: "off",scrollbar: "on",autoscroll: "on",scrolldirection: "up",scrollstep: "3",mcspeed: "20",sort: "Old",rssmikle_title: "on",rssmikle_title_sentence: "Events",rssmikle_title_link: "https://calendar.google.com/calendar/embed?src=39puh1lr6t17cs634lsmdrn86k@group.calendar.google.com",rssmikle_title_bgcolor: "#BB0000",rssmikle_title_color: "#FFFFFF",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#FFFFFF",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#BB0000",rssmikle_item_border_bottom: "on",rssmikle_item_description: "on",item_link: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#666666",rssmikle_item_date: "gl1",rssmikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M %p",item_description_style: "text",item_thumbnail: "full",item_thumbnail_selection: "auto",article_num: "15",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();
+                            </script>
+                        </div>
+
+                        <!-- Calendar -->
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe id="calendar" src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23c0c0c0&amp;src=39puh1lr6t17cs634lsmdrn86k%40group.calendar.google.com&amp;color=%23A32929&amp;ctz=America%2FNew_York"
+                            style="border-width:0"
+                            scrolling="no"></iframe>
+                        </div>
+                                        <div id="links-wrapper" class="container padded">
+                    <h2 class="featurette-heading text-centered">Twitter</h2>
+                    <div id="twitter-feed" class="">
+                        <div id="twitter-feed-inner" class="wsb-social-twitter ">
+                            <a class="twitter-timeline" target="new" href="https://twitter.com/ohiostatebdaa" data-widget-id="501612910833975296">Tweets by @ohiostatebdaa</a>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                        
+                    </div>
                 </div>
             </div>
-            <div class='jumbotron main-content'>
-                <div class='container'>
-                    <h1>News</h1>
-                    <p>Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
-                </div>
-            </div>
-            <div class='jumbotron main-content'>
-                <div class='container'>
-                    <h1>News</h1>
-                    <p>Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
-                </div>
-            </div>
-            <div class='jumbotron main-content'>
-                <div class='container'>
-                    <h1>News</h1>
-                    <p>Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
-                </div>
+            <div class="jumbotron main-content">
+
             </div>
         </div>
+        <div class="col-sm-2 col-lg-2">
+        </div>
+
     </body>
 </html>
