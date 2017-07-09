@@ -2,4 +2,25 @@
 {
   background-color:#bb0000;
   position: relative;
+  color: white;
+}
+
+#calendarTitle
+{
+   display:none !important;
+}
+
+#nav1
+{
+   display:none !important;
+}
+
+#footer1
+{
+   display:none !important;
+}
+
+.view-container-border
+{
+   background-color:white !important;
 }

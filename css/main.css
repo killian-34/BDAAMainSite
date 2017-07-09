@@ -19,6 +19,13 @@ body
     /* You may add things like width, height, background-size... */
 }
 
+iframe {
+    border-width: 0px;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+
 .calendar-frame
 {
     height:400px;
