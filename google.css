@@ -1,3 +1,12 @@
+@font-face 
+{
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v11/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
 .mv-daynames-table
 {
   background-color:#bb0000;
@@ -5,12 +14,23 @@
   color: white;
 }
 
+.calendar-container {
+    font-family: 'Raleway';
+    font-size: small;
+}
+
+body
+{
+    /*background-color:transparent !important;*/
+    background:none transparent !important;
+}
+
 #calendarTitle
 {
    display:none !important;
 }
 
-#nav1
+.date-nav-buttons, #calendarTabs1, .calendar-nav, .tab-name
 {
    display:none !important;
 }
@@ -22,5 +42,76 @@
 
 .view-container-border
 {
-   background-color:white !important;
+    background:none transparent !important;
+    border:1px;
 }
+
+#viewContainer1
+{
+    background:none transparent !important;
+    border-style:solid;
+    border-width:thin;
+    border-color:#cccccc;
+    border-radius:4px;
+}
+
+.mv-event-container
+{
+    border-top:none !important;
+    border-bottom:none !important;
+    background:#eee !important;
+}
+
+.view-cap
+{
+    background:none transparent !important;
+}
+
+.te
+{
+    color:#ffffff !important;
+}
+
+.st-c-pos
+{
+    background-color:gray !important;
+    border-radius:6px;
+    word-wrap:break-word;
+}
+
+table div div {
+height:inherit!important; 
+overflow: inherit !important;
+white-space: normal !important;
+}
+
+img[title="Print my calendar (shows preview)"]
+{
+    display:none;
+}
+
+.mv-container
+{
+    font-size:13px;
+}
+
+.te-s
+{
+    font-size:11px;
+}
+
+.dp-popup
+{
+    background:white;
+}
+
+.dp-prev, .dp-next, .dp-cur
+{
+    color:#000;
+}
+
+.dp-weekend-selected, .dp-weekday-selected
+{
+    background:#ddd;
+}
+
