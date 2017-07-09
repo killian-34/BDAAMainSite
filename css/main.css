@@ -19,6 +19,12 @@ body
     /* You may add things like width, height, background-size... */
 }
 
+.calendar-frame
+{
+    height:400px;
+    width:100%;
+}
+
 .nav-link-red
 {
     color:#bb0000 !important;
