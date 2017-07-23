@@ -120,8 +120,13 @@ iframe {
     right:0px;
 }
 
+a {
+    color: #a00000;
+    text-decoration: none;s
+    font-weight:bold;
+}
 
-li a {
+li.nav a {
     display: block;
     color: #000;
     padding: 8px 16px;

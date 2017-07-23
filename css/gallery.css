@@ -1,0 +1,16 @@
+.carousel-inner > .item > img, .carousel-inner > .item  > img {
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+        }
+        #viewAllBtn {
+            background-color: #BB0000;
+        }
+        #viewAllBtn a {
+            color: #FFFFFF;
+            font-size: 18pt;
+        }
+         .img-responsive {
+            width: 100%;
+            height: auto;
+        }
