@@ -6,21 +6,32 @@
     <body>
         <?php include("nav.html");?>
         <div class="col-sm-8 col-lg-8 fadein">
+            <!-- Welcome banner -->
+            <div class="jumbotron main-content">
+                <br />
+                <h1 align="center" class="org-title" >Big Data & Analytics Association</h1>
+                <div class='container padded'>
+                    <div class="row padded">
+                        <p id="jumboText" class="text-muted">The only <b>undergraduate student organization</b> at The Ohio State University of its kind. We aim to inspire students to think analytically, empower them through hands on training, and connect them to potential employers. Winner of the 2016 Excellence Award for Innovation and Change, BDAA is truly Ohio State's central hub for involvement in data analytics.</p>
+                    </div>
+                </div>
+            </div>
+            
             <div class='jumbotron main-content'>
                 <div class='container padded'>
                     <div class="row padded">
-                        <h1 class="">News</h1>
-                        <h2><b>Networking Night Fall 2017</b></h2>
-                        <p>Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
+                        <h2 class="">News</h2>
+                        <h3><b>Networking Night Fall 2017</b></h3>
+                        <p class="text-muted">Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
 
-                        <h2><b>BDAA Brunch</b></h2>
-                        <p>Don't miss us at the BDAA brunch at ethyl!</p>
+                        <h3><b>BDAA Brunch</b></h3>
+                        <p class="text-muted">Don't miss us at the BDAA brunch at ethyl!</p>
                     </div>
                 </div>
             </div>
             <div class='jumbotron main-content'>
                 <div class='container padded'>
-                    <h1 class="pad-left">Events</h1>
+                    <h2 class="pad-left">Upcoming Events</h2>
                     <br />
                     <iframe id="gcal" class="calendar-frame" allowtransparency="true" src="cal.php"></iframe>
                 </div>

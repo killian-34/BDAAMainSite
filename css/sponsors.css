@@ -1,12 +1,23 @@
-#sponsor {
-            color: #BB0000;
-        }
-        .img-responsive-sponsor {
-             max-width: 100%;
-             padding-bottom: 30px;
-             padding-top: 20px;
-             margin-left:auto;
-             margin-right:auto;
-             display:block;
-             height:200px;
-        }
+#sponsor 
+{
+    color: #BB0000;
+}
+.img-responsive-sponsor {
+     max-height: 100%;
+     padding-bottom: 30px;
+     padding-top: 20px;
+     margin-left:auto;
+     margin-right:auto;
+     display:block;
+     width:100%;
+}
+
+.img-responsive-sponsor-half {
+     max-height: 100%;
+     padding-bottom: 30px;
+     padding-top: 20px;
+     margin-left:auto;
+     margin-right:auto;
+     display:block;
+     width:50%;
+}

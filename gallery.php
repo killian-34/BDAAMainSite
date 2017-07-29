@@ -18,7 +18,7 @@
                             <div class="item active">
                                 <img class="img-responsive" src="/Images/gallery/business_meeting.JPG">
                             </div>
-                            <?php $files = scandir('/Images/gallery/'); ?>
+                            <?php $files = scandir('./Images/gallery/'); ?>
                             <?php foreach($files as $file) { ?>
                             <?php if ($file != ".") { ?>
                             <?php if ($file != "..") { ?>
@@ -37,7 +37,7 @@
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
-                    <button id="viewAllBtn" class="btn btn-default btn-lg center-block"><a data-toggle="modal" href="#viewAllWindow">View All &raquo;</a></button>
+                    <button id="viewAllBtn" class="btn btnred center-block" data-toggle="modal" data-target="#viewAllWindow" style="color:white;" >View All &raquo;</button>
                 </div>
             </div>
 
@@ -49,7 +49,7 @@
                             <h4 class="modal-title">View All Pictures</h4>
                         </div>
                         <div class="modal-body">
-                            <?php $files = scandir('../Images/gallery/'); ?>
+                            <?php $files = scandir('./Images/gallery/'); ?>
                             <?php foreach($files as $file) { ?>
                             <?php if ($file != ".") { ?>
                             <?php if ($file != "..") { ?>

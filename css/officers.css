@@ -1,0 +1,22 @@
+#officers, .officer-name {
+            color: #BB0000;
+        }
+        .img-responsive {
+            height: 160px !important;
+            width: 160px !important;
+        }
+        .img-square {
+            height: 225px;
+            width: 225px;
+        }
+        @media screen and ( max-width: 767px ) {
+            .img-responsive {
+                height: 247px;
+                width: 247px;
+        }
+        @media screen and ( max-width: 500px ) {
+            .img-responsive {
+                height: 185px;
+                width: 185px;
+            }
+        }
