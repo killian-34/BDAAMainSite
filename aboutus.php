@@ -15,6 +15,20 @@
                             <p id="mission-text" class="text-muted">Our mission is simple: inspire students to think analytically and empower them through hands on training, all while connecting them to potential employers. To achieve these goals, BDAA aims to become the central communication point from students across disciplines to faculty and professionals in the Data Analytics field.<p>
                             <h2 style="color: #BB0000">Our History</h2>
                             <p id="history-text" class="text-muted">In November, 2012 the IBM Analytics Solutions Lab opened in Dublin, Ohio providing Columbus with a cutting edge facility in the field of big data. Columbus 2020, the economic development organization for the Columbus region, opened the potential for Columbus to become the next data analytics hub. The spike of data capture in the last few years has started conversations amongst leading local company CEOs. The rise in demand has rendered the need of capable and well-rounded data scientists. We intend to join the conversation by providing quality talent to quality companies.<p>
+                            <h2 style="color: #BB0000">Awards</h2>
+                            <p id="history-text" class="text-muted">We’ve had the privilege of being recognized for our work. For this we thank our sponsors, members, board, and supporters, wihtout whom it would not have been possible.<p>
+                            
+                            <h3 class="awards-heading">2016:</h3>
+                            <ul class="awards-list">
+                                <li>Outstanding Student Organization</li>
+                                <li>Innovation and Change</li>
+                                <li>Excellence in Operations</li>
+                            </ul>
+                            <h3 class="awards-heading">2015:</h3>
+                            <ul class="awards-list">
+                                <li>Innovation and Change</li>
+                            </ul>
+                            
                             <h2 style="color: #BB0000">Joining is Free!</h2>
                             <p id="join-text" class="text-muted">Membership is free of charge, and open to all students in all disciplines. If you have any questions about BDAA, email us at ohiostatebdaa@gmail.com, or sign up for our <b><a class="pretty-link" target="new" href="http://eepurl.com/bFPaLb">email list service</a></b> to receive updates and news. Active members receive exclusive access to job listings provided by our <b><a class="pretty-link" href="/php/sponsors.php">sponsors</a></b>, and can elect to submit their resume to the website for sponsors to view.<p>
                         </div>

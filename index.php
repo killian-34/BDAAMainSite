@@ -21,10 +21,10 @@
                 <div class='container padded'>
                     <div class="row padded">
                         <h2 class="">News</h2>
-                        <h3><b>Networking Night Fall 2017</b></h3>
+                        <h3 class="text-muted"><b>Networking Night Fall 2017</b></h3>
                         <p class="text-muted">Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
 
-                        <h3><b>BDAA Brunch</b></h3>
+                        <h3 class="text-muted"><b>BDAA Brunch</b></h3>
                         <p class="text-muted">Don't miss us at the BDAA brunch at ethyl!</p>
                     </div>
                 </div>

@@ -76,25 +76,19 @@
                             <p style="color: #BB0000;">Jackson Killian<br><span class="text-muted">Webmaster</span></p>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <a data-toggle="modal" href="#nathanBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/nathan_domeck.png">
-                            </a>
-                            <p style="color: #BB0000;">Nathan Domeck<br><span class="text-muted">Liaison</span></p>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#johnBio">
                                 <img class="img-responsive img-rounded" src="/Images/officers/john_robbins.png.jpg">
                             </a>
                             <p style="color: #BB0000;">John Robbins<br><span class="text-muted">Liaison</span></p>
                         </div>
-                    </div>
-                    <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#stacyBio">
                                 <img class="img-responsive img-rounded" src="/Images/officers/stacy_comer.jpg">
                             </a>
                             <p style="color: #BB0000;">Stacy Comer<br><span class="text-muted">Liaison</span></p>
                         </div>
+                    </div>
+                    <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#andrewBio">
                                 <img class="img-responsive img-rounded" src="/Images/officers/andrew_hay.jpg">
@@ -102,24 +96,10 @@
                             <p style="color: #BB0000;">Andrew Hay<br><span class="text-muted">Liaison</span></p>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <a data-toggle="modal" href="#morganBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/morgan_phillips.jpg">
-                            </a>
-                            <p style="color: #BB0000;">Morgan Phillips<br><span class="text-muted">Liaison</span></p>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#shiyaoBio">
                                 <img class="img-responsive img-rounded" src="/Images/officers/shiyao_zhang.jpg">
                             </a>
                             <p style="color: #BB0000;">Shiyao Zhang<br><span class="text-muted">Liaison</span></p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <a data-toggle="modal" href="#tylerBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/tyler_poelking.jpg">
-                            </a>
-                            <p style="color: #BB0000;">Tyler Poelking<br><span class="text-muted">Liaison</span></p>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#oliviaBio">
@@ -128,7 +108,6 @@
                             <p style="color: #BB0000;">Olivia Wan<br><span class="text-muted">Liaison</span></p>
                         </div>
                     </div>
-
                 </div>
             </div>            
         <?php include("footer.html");?>   

@@ -12,6 +12,25 @@
                         <p class="text-muted">Click on each logo below to learn more about our corporate sponsors.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <p style="align: center;"><a data-toggle="modal" data-target="#CapBio"><img class="img-responsive-sponsor" src="/Images/sponsors/capital_one.png"></a></p>
+                            </div>
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <p style="align: center;" ><a data-toggle="modal" data-target="#casBio"><img class="img-responsive-sponsor" src="/Images/sponsors/CAS.png"></a></p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <p style="align: center;"><a data-toggle="modal" data-target="#lubrizolBio"><img class="img-responsive-sponsor" src="/Images/sponsors/lubrizol.jpg"></a></p>
+                            </div>
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <p style="align: center;" ><a data-toggle="modal" data-target="#pwcBio"><img class="img-responsive-sponsor" src="/Images/sponsors/pwc.png"></a></p>
+                            </div>
+                        </div>
+                        
+                        
+                        <!-- Old Sponsors
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                 <p style="align: center;"><a data-toggle="modal" data-target="#cardinalBio"><img class="img-responsive-sponsor" src="/Images/sponsors/Cardinal Health Logo.jpg"></a></p>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
@@ -38,7 +57,8 @@
                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                 <p style="align: center;"><a data-toggle="modal" data-target="#RockwellBio"><img class="img-responsive-sponsor-half" src="/Images/sponsors/rockwell.png"></a></p>
                             </div>
-                        </div>
+                        </div> -->
+                        
                     </div>
                 </div>
             
@@ -192,6 +212,24 @@ Ultimately getting things done involves the ILW Associate spending some time in 
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <h4 class="modal-title">Rockwell Automation</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- PwC Bio -->
+        <div id="pwcBio" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">PwC</h4>
                     </div>
                     <div class="modal-body">
                         <p></p>
