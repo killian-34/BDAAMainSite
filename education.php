@@ -148,7 +148,6 @@
         </div>
     </body>
 <script type="text/javascript">
-        console.log("sup")
 $( document ).ready(function() {
     ChangeNavActiveClass("#nav-link-education");
 });

@@ -243,7 +243,6 @@ Ultimately getting things done involves the ILW Associate spending some time in 
 
     </body>
 <script type="text/javascript">
-        console.log("sup")
 $( document ).ready(function() {
     ChangeNavActiveClass("#nav-link-sponsors");
 });

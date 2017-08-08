@@ -10,10 +10,8 @@ function ChangeNavActiveClass(selector){
 }
 
 function checkPageLoadsForAnimation(){
-console.log("Testing checkPageLoadsForAnimation ");
     if (sessionStorage.pageLoads) {
         sessionStorage.pageLoads = Number(sessionStorage.pageLoads) + 1;
-        console.log(sessionStorage.pageLoads);
         blockAnimation();
     }
     else {
@@ -25,5 +23,4 @@ function blockAnimation(){
     $(".topslide").removeClass("topslide");
     $(".leftslide").removeClass("leftslide");
     $(".fadein").removeClass("fadein");
-    console.log(sessionStorage.pageLoads);
 }
