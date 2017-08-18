@@ -30,7 +30,7 @@
                             </ul>
                             
                             <h2 style="color: #BB0000">Joining is Free!</h2>
-                            <p id="join-text" class="text-muted">Membership is free of charge, and open to all students in all disciplines. If you have any questions about BDAA, email us at ohiostatebdaa@gmail.com, or sign up for our <b><a class="pretty-link" target="new" href="http://eepurl.com/bFPaLb">email list service</a></b> to receive updates and news. Active members receive exclusive access to job listings provided by our <b><a class="pretty-link" href="/php/sponsors.php">sponsors</a></b>, and can elect to submit their resume to the website for sponsors to view.<p>
+                            <p id="join-text" class="text-muted">Membership is free of charge, and open to all students in all disciplines. If you have any questions about BDAA, email us at ohiostatebdaa@gmail.com, or sign up for our <b><a class="pretty-link" target="new" href="http://eepurl.com/bFPaLb">email list service</a></b> to receive updates and news. Active members receive exclusive access to job listings provided by our <b><a class="pretty-link" href="sponsors.php">sponsors</a></b>, and can elect to submit their resume to the website for sponsors to view.<p>
                         </div>
                     </div>
                 </div>

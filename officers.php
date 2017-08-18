@@ -107,6 +107,12 @@
                             </a>
                             <p style="color: #BB0000;">Olivia Wan<br><span class="text-muted">Liaison</span></p>
                         </div>
+                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                            <a data-toggle="modal" href="#nathanBio">
+                                <img class="img-responsive img-rounded" src="/Images/officers/nathan_domeck.jpg">
+                            </a>
+                            <p style="color: #BB0000;">Nathan Domeck<br><span class="text-muted">Liaison</span></p>
+                        </div>
                     </div>
                 </div>
             </div>            
@@ -128,9 +134,9 @@
                     </div>
                     <div class="modal-body">
                         <p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Major:&nbsp;</b>Data Analytics</p>
+                        <p><b>Work Experience:&nbsp;</b>Ford Motor Company, Huntington National Bank, Pure Water Access Project</p>
+                        <p><b>Fun Fact:&nbsp;</b>I have a shoe addiction (I own at least 30 pairs)</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -148,10 +154,10 @@
                         <h4 class="modal-title">Jack Schroder</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -171,8 +177,8 @@
                     <div class="modal-body">
                         <p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Work Experience:&nbsp;</b>Analytics Intern at Cardinal Health in Dublin, OH; Lean Group Engineering Intern at Swagelok Co. in Cleveland, OH</p>
+                        <p><b>Fun Fact:&nbsp;</b>My mother is the youngest of twelve girls!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -190,10 +196,10 @@
                         <h4 class="modal-title">Kalman Roemer</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -211,10 +217,10 @@
                         <h4 class="modal-title">Elizabeth Gilbert</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Class Rank:&nbsp;</b>2nd Year</p>
+                        <p><b>Major:&nbsp;</b>Data Analytics</p>
+                        <p><b>Work Experience:&nbsp;</b>Summer Research Fellow at the Mathematical Biosciences Institute</p>
+                        <p><b>Fun Fact:&nbsp;</b>My hobbies include cello, photography, and updating my LinkedIn profile.</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -232,10 +238,10 @@
                         <h4 class="modal-title">Obi Nnebedum</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -253,10 +259,10 @@
                         <h4 class="modal-title">Marielle Nwana</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -274,10 +280,10 @@
                         <h4 class="modal-title">Alex Lacey</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -295,10 +301,10 @@
                         <h4 class="modal-title">Winston Underwood</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -316,10 +322,10 @@
                         <h4 class="modal-title">Jackson Killian</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Class Rank:&nbsp;</b>5th Year</p>
+                        <p><b>Majors:&nbsp;</b>Physics, Computer and Infomration Science</p>
+                        <p><b>Work Experience:&nbsp;</b>Undergraduate Research Fellow in Bioinformatics, PNC Software Engineering Intern, Database Designer for small business</p>
+                        <p><b>Fun Fact:&nbsp;</b>I have been on the beach of the cliffs of Moher!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -337,10 +343,11 @@
                         <h4 class="modal-title">Nathan Domeck</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Class Rank:&nbsp;</b>3rd Year</p>
+                        <p><b>Major:&nbsp;</b>Finance</p>
+                        <p><b>Minor:&nbsp;</b>Data Analytics</p>
+                        <p><b>Work Experience:&nbsp;</b>Cintas Corporation Service Intern, Kohl's Distribution Center Receiving Associate</p>
+                        <p><b>Fun Fact:&nbsp;</b>I recently studied abroad in Argentina!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -358,10 +365,10 @@
                         <h4 class="modal-title">John Robbins</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -379,10 +386,10 @@
                         <h4 class="modal-title">Stacy Comer</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Class Rank:&nbsp;</b>2nd Year</p>
+                        <p><b>Major:&nbsp;</b>Management Information Systems</p>
+                        <p><b>Work Experience:&nbsp;</b>Data Analyst intern at Westfield Insurance</p>
+                        <p><b>Fun Fact:&nbsp;</b>I've held a shark!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -400,10 +407,10 @@
                         <h4 class="modal-title">Andrew Hay</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <p><b>Class Rank:&nbsp;</b>3rd Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Work Experience:&nbsp;</b>Command Alkon</p>
+                        <p><b>Fun Fact:&nbsp;</b></p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -421,10 +428,10 @@
                         <h4 class="modal-title">Morgan Phillips</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -442,10 +449,10 @@
                         <h4 class="modal-title">Shiyao Zhang</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -463,10 +470,10 @@
                         <h4 class="modal-title">Tyler Poelking</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -484,10 +491,10 @@
                         <h4 class="modal-title">Olivia Wan</h4>
                     </div>
                     <div class="modal-body">
-                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

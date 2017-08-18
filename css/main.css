@@ -324,3 +324,10 @@ span a:active {
     padding-top:12px !important;
     padding-bottom:12px !important;
 }
+
+.disclaimer
+{
+    font-size: 15px !important;
+    color:gray;
+    text-align:center;
+}
