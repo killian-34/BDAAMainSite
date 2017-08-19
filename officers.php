@@ -301,10 +301,10 @@
                         <h4 class="modal-title">Winston Underwood</h4>
                     </div>
                     <div class="modal-body">
-                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
+                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <p><b>Major:&nbsp;</b>Finance & Information Systems</p>
+                        <p><b>Work Experience:&nbsp;</b>Internal audit analytics at Nationwide Mutual Insurance</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm getting married to my girlfriend of four years next August!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
