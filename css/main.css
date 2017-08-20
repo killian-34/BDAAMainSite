@@ -225,7 +225,10 @@ li.nav a:visited{
 
 li.filler
 {
-    height: 275px;
+    height: 198px; /*  
+                    *  Original height which aligned with top jumbotron
+                    *  was 275px
+                    */
 }
 
 a.pretty-link {
