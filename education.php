@@ -20,7 +20,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-padded">
                             <h4 class="education-colheading centered" >Job Search</h4>
                             <ul>
-                                <li class="text-muted">Refine Your Strategy with <a class="pretty-link" href="../files/DataAnaltyicJobSearchGuide.pdf">TDA's Data Analytics Job Search Guide</a></li>
+                                <li class="text-muted">Refine Your Strategy with <a class="pretty-link" href="https://discovery.osu.edu/tda/wp-content/uploads/2017/04/TDA_Job_Search_Guide.pdf">TDA's Data Analytics Job Search Guide</a></li>
                             </ul>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                             <h4 class="education-colheading centered" >Videos</h4>
                             <ul>
                                 <li class="text-muted"><a target="new" class="pretty-link" href="http://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think">The Curly Fry Conondrum</a></li>
-                                <li class="text-muted"><a target="new" class="pretty-link" href="https://www.youtube.com/user/nCluster/videos">Teradata</a></li>
+                                <li class="text-muted"><a target="new" class="pretty-link" href="https://www.youtube.com/user/teradata">Teradata</a></li>
                             </ul>
                         </div>
                     </div>
@@ -88,8 +88,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-padded">
                             <h4 class="education-colheading centered" >Web Scraping Practice</h4>
                             <ul>
-                                <li class="text-muted">Practice with <a class="pretty-link" target="new" href="/Workshops/web_scraping/ex_webpage.html">this</a> webpage</li>
-                                <li class="text-muted">Here's how we would have done it. Use <a class="pretty-link" target="new" href="/Workshops/web_scraping/web_scrape_code.zip">our code</a> as a starting point for your own explorations!</li>
+                                <li class="text-muted">Practice with <a class="pretty-link" target="new" href="/workshops/webscrape/ex_webpage.html">this</a> webpage</li>
+                                <li class="text-muted">Here's how we would have done it. Use <a class="pretty-link" target="new" href="/workshops/webscrape/web_scrape_code.zip">our code</a> as a starting point for your own explorations!</li>
                             </ul>
                         </div>
                     </div>

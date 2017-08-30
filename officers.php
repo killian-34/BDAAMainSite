@@ -9,7 +9,7 @@
            <div class="jumbotron main-content padded">
                 <div class="container-fluid">
                     <h2 id="officers">Officers</h2>
-                    <p class="text-muted">Meet the members of BDAA's Fall 2017 Executive Board</p>
+                    <p class="text-muted">Meet the members of BDAA's Fall 2017 Executive Board. Have questions for us? Members can find us at our office hours. Send us an email to get the schedule.</p>
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#shwetaBio">
@@ -77,7 +77,7 @@
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#johnBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/john_robbins.png.jpg">
+                                <img class="img-responsive img-rounded" src="/Images/officers/john_robbins.jpg">
                             </a>
                             <p style="color: #BB0000;">John Robbins<br><span class="text-muted">Liaison</span></p>
                         </div>
@@ -365,10 +365,11 @@
                         <h4 class="modal-title">John Robbins</h4>
                     </div>
                     <div class="modal-body">
-                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
+                        <p><b>Class Rank:&nbsp;</b>3rd Year</p>
+                        <p><b>Major:&nbsp;</b>Finance</p>
+                        <p><b>Minor:&nbsp;</b>Business Analytics</p>
+                        <p><b>Work Experience:&nbsp;</b>IT Project Management/Business Intelligence Analyst at Big Lots</p>
+                        <p><b>Fun Fact:&nbsp;</b>LinkedIn is my favorite form of social media.</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

@@ -265,7 +265,7 @@ a.pretty-link:visited{
 
 .osulogo
 {
-    margin:auto; /* Required */
+    margin: 0 auto; /* Required */
     position:absolute; /* Required */
     bottom:5px; /* Aligns at the bottom */
     left:0;right:0; /* Aligns horizontal center */

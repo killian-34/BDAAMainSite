@@ -18,13 +18,13 @@
                             <h2 style="color: #BB0000">Awards</h2>
                             <p id="history-text" class="text-muted">We’ve had the privilege of being recognized for our work. For this we thank our sponsors, members, board, and supporters, wihtout whom it would not have been possible.<p>
                             
-                            <h3 class="awards-heading">2016:</h3>
+                            <h3 class="awards-heading">2017:</h3>
                             <ul class="awards-list">
                                 <li>Outstanding Student Organization</li>
                                 <li>Innovation and Change</li>
                                 <li>Excellence in Operations</li>
                             </ul>
-                            <h3 class="awards-heading">2015:</h3>
+                            <h3 class="awards-heading">2016:</h3>
                             <ul class="awards-list">
                                 <li>Innovation and Change</li>
                             </ul>

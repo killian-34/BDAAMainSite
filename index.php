@@ -12,7 +12,7 @@
                 <h1 align="center" class="org-title" >Big Data & Analytics Association</h1>
                 <div class='container padded'>
                     <div class="row padded">
-                        <p id="jumboText" class="text-muted">The only <b>undergraduate student organization</b> at The Ohio State University of its kind. We aim to inspire students to think analytically, empower them through hands on training, and connect them to potential employers. Winner of the 2016 Excellence Award for Innovation and Change, BDAA is truly Ohio State's central hub for involvement in data analytics.</p>
+                        <p id="jumboText" class="text-muted">The only <b>undergraduate student organization</b> of its kind at The Ohio State University. We aim to inspire students to think analytically, empower them through hands on training, and connect them to potential employers. Winner of the 2016 Excellence Award for Innovation and Change, BDAA is truly Ohio State's central hub for involvement in data analytics.</p>
                     </div>
                 </div>
             </div>
