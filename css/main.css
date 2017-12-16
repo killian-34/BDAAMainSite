@@ -334,3 +334,7 @@ span a:active {
     color:gray;
     text-align:center;
 }
+
+li {
+    clear:left;
+}

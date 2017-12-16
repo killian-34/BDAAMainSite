@@ -10,18 +10,10 @@
                     <div class="col">
                         <h2>Networking Nights</h2>
                         <p class="text-muted">Thank you to all those who attend BDAA's Networking Nights. Below is information about previous events, and those to come.</p>
- <br>
-                        <h3 class="current-careerfair" style="color: #BB0000" >Upcoming - Autumn 2017 Career Fair</h3>
-                        <p class="text-muted"><b>Date:&nbsp;</b>September 25, 2017 (6:00 - 9:00 PM)</p>
-                        <p class="text-muted"><b>Location:&nbsp;</b>Performance Hall at the Ohio Union</p>
-                        <p class="text-muted"><b>Companies:&nbsp;</b>Announced in September.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="jumbotron main-content padded">
-                <div class="container-fluid">
-                    <div class="col">
-                        <h3 style="color: #BB0000">Previous Networking Events</h3>
+                        <h3 class="text-muted"><b>Autumn 2017 Career Fair</b></h3>
+                        <p class="text-muted"><i>Date:&nbsp;</i>September 25, 2017 (6:00 - 9:00 PM)</p>
+                        <p class="text-muted"><i>Location:&nbsp;</i>Performance Hall at the Ohio Union</p>
+                        <p class="text-muted"><i>Companies:&nbsp;</i>RevSpring, Infosys Limited, Captech Ventures Inc, Marathon Petroleum Company LP, Zillow Group, Capital One, IBM, Caterpillar, Lubrizol, OEC, AMEND Consulting, Accenture, Cardinal Solutions Group, Procter and Gamble, CAS, The J.M. Smucker Company, Infoverity, Nationwide</p>
                         <p class="text-muted"><b>Autumn 2016</b></h4>
                         <p class="text-muted"><i>Date:&nbsp;</i>September 12, 2016 (7:30-9:00 PM)</p>
                         <p class="text-muted"><i>Location:&nbsp;</i>Great Hall Meeting Room at The Ohio Union</p>

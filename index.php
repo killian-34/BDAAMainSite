@@ -1,4 +1,4 @@
-<html>
+a<html>
     <head>
         <link rel=stylesheet href='/css/animations.css' />
     <title>BDAA</title>
@@ -21,8 +21,9 @@
                 <div class='container padded'>
                     <div class="row padded">
                         <h2 class="">News</h2>
-                        <h3 class="text-muted"><b>Networking Night Fall 2017</b></h3>
-                        <p class="text-muted">Join us for our Networking night on September 25 in the Performance Hall of the Ohio Union.</p>
+                        <h3 class="text-muted"><b>October is Data Analytics Month</b></h3>
+                        <p class="text-muted">Check out the full schedule of events below (or click <a href="Images/site/data_analytics_month.jpg" class="pretty-link">here!</a>)</p>
+			<img src="Images/site/data_analytics_month.jpg" style="max-height:100%;max-width:100%">
                     </div>
                 </div>
             </div>

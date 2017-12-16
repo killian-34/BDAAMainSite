@@ -34,6 +34,15 @@
                                 <p style="align: center;" ><a data-toggle="modal" data-target="#caterpillarBio"><img class="img-responsive-sponsor" src="/Images/sponsors/caterpillar.jpg"></a></p>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            </div>
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <p style="align: center;" ><a data-toggle="modal" data-target="#cardinalSolutionsBio"><img class="img-responsive-sponsor" src="/Images/sponsors/Cardinal-Solutions.jpg"></a></p>
+                            </div>
+                            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            </div>
+                        </div>
                         
                         
                         <!-- Old Sponsors
@@ -285,6 +294,23 @@ Ultimately getting things done involves the ILW Associate spending some time in 
             </div>
         </div>
         
+        <!-- Cardinal Solutions Bio -->
+        <div id="cardinalSolutionsBio" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Cardinal Solutions</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>We create technology solutions that advance your business. You're at a pivotal point in your business. You know that the way forward is through technology reshaping what you do, but you can't get from here to there on your own. At Cardinal, we leverage our extensive experience to imagine, develop, manage and deliver technology solutions that advance your business. Your work can be better, smarter, and easier. We can guide you there.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </body>
 <script type="text/javascript">

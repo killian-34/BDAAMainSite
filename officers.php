@@ -51,7 +51,7 @@
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#marielleBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/marielle_nwana.jpg">
+                                <img class="img-responsive img-rounded" src="/Images/officers/marielle_nwana.png">
                             </a>
                             <p style="color: #BB0000;">Marielle Nwana<br><span class="text-muted">Internal Relations Director</span></p>
                         </div>
@@ -96,23 +96,18 @@
                             <p style="color: #BB0000;">Andrew Hay<br><span class="text-muted">Liaison</span></p>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <a data-toggle="modal" href="#shiyaoBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/shiyao_zhang.jpg">
-                            </a>
-                            <p style="color: #BB0000;">Shiyao Zhang<br><span class="text-muted">Liaison</span></p>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <a data-toggle="modal" href="#oliviaBio">
-                                <img class="img-responsive img-rounded" src="/Images/officers/olivia_wan.jpg">
-                            </a>
-                            <p style="color: #BB0000;">Olivia Wan<br><span class="text-muted">Liaison</span></p>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                             <a data-toggle="modal" href="#nathanBio">
                                 <img class="img-responsive img-rounded" src="/Images/officers/nathan_domeck.jpg">
                             </a>
                             <p style="color: #BB0000;">Nathan Domeck<br><span class="text-muted">Liaison</span></p>
                         </div>
+                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                            <a data-toggle="modal" href="#coleBio">
+                                <img class="img-responsive img-rounded" src="/Images/officers/cole_smith.png">
+                            </a>
+                            <p style="color: #BB0000;">Cole Smith<br><span class="text-muted">Liaison</span></p>
+                        </div>
+
                     </div>
                 </div>
             </div>            
@@ -259,10 +254,10 @@
                         <h4 class="modal-title">Marielle Nwana</h4>
                     </div>
                     <div class="modal-body">
-                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
+                        <p><b>Class Rank:&nbsp;</b>5th Year</p>
+                        <p><b>Major:&nbsp;</b>Data Analytics</p>
+                        <p><b>Work Experience:&nbsp;</b>Customer Insights Intern for Huntington Bank, Central Planning Intern for La Senza at L Brands</p>
+                        <p><b>Fun Fact:&nbsp;</b>I love to try new cheeses. At one point this summer, I had over 20 different cheeses in my fridge!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -280,10 +275,10 @@
                         <h4 class="modal-title">Alex Lacey</h4>
                     </div>
                     <div class="modal-body">
-                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
+                        <p><b>Class Rank:&nbsp;</b>4th Year</p>
+                        <p><b>Major:&nbsp;</b>Biomedical Science</p>
+                        <p><b>Work Experience:&nbsp;</b>Facebook, Max Planck Society, Nationwide Children's Hospital</p>
+                        <p><b>Fun Fact:&nbsp;</b>I perform standup comedy as a hobby and am the President of the Buckeye Standup Comedy Club at OSU!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -411,7 +406,7 @@
                         <p><b>Class Rank:&nbsp;</b>3rd Year</p>
                         <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
                         <p><b>Work Experience:&nbsp;</b>Command Alkon</p>
-                        <p><b>Fun Fact:&nbsp;</b></p>
+                        <p><b>Fun Fact:&nbsp;</b>I did an internship in the Netherlands this summer!</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -483,19 +478,19 @@
             </div>
         </div>
         
-        <!-- Olivia Bio -->
-        <div id="oliviaBio" class="modal fade" role="dialog">
+        <!-- Cole Bio -->
+        <div id="coleBio" class="modal fade" role="dialog">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 class="modal-title">Olivia Wan</h4>
+                        <h4 class="modal-title">Cole Smith</h4>
                     </div>
                     <div class="modal-body">
-                        <!--<p><b>Class Rank:&nbsp;</b>4th Year</p>
-                        <p><b>Major:&nbsp;</b>Industrial & Systems Engineering</p>
-                        <p><b>Work Experience:&nbsp;</b>GE Aviation, AMEND Consulting, IBM</p>
-                        <p><b>Fun Fact:&nbsp;</b>I'm basically Katniss Everdeen with a bow and arrow</p>-->
+                        <p><b>Class Rank:&nbsp;</b>2nd Year</p>
+                        <p><b>Major:&nbsp;</b>Data Analytics</p>
+                        <p><b>Work Experience:&nbsp;</b>Junior Data Analyst at Data Society</p>
+                        <p><b>Fun Fact:&nbsp;</b>I'm a descendant of Mary, Queen of Scots.</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
